@@ -1,4 +1,4 @@
 # new project
 
 This project was created from local system.
-created by Mohammad Ifteshan
+created by MOHAMMAD IFTESHAN.
